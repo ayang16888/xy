@@ -203,7 +203,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV6Tg",
-      "jar": "http://47.120.41.246:8025/vip/jar/aowu.php"
+      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
     },
     {
       "name": "🌻┃ACE┃秒播",
@@ -214,7 +214,7 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "AppV7Xhr",
-      "jar": "http://47.120.41.246:8025/vip/jar/aowu.php"
+      "jar": "https://www.lequxiang.com.cn/down.php/6b076a8a31e03cbfa5db73e079155629.jar"
     },
     {
       "key": "免扫4K",
@@ -731,13 +731,13 @@
       "name": "🌻┃豪堪┃短剧",
       "key": "HHkk",
       "type": 3,
-  "api": "csp_HHkkAmns",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "genre": "shortdrama",
-  "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
-},
+      "api": "csp_HHkkAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "genre": "shortdrama",
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
+    },
     {
       "key": "Manbo",
       "name": "🌻┃曼波┃动漫",
