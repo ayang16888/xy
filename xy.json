@@ -718,6 +718,20 @@
       "jar": "http://47.120.41.246:8025/vip/jar/lubin.php"
     },
     {
+      "key": "DG音乐仓",
+      "name": "🌻┃向阳┃音乐",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "jar": "https://gitee.com/ayang168/yy/raw/master/jar/spider.jar",
+      "ext": {
+        "json": "https://gitee.com/ayang168/yy/raw/master/json/ych.json",
+        "cookie": "https://gitee.com/ayang168/yy/raw/master/other/cookie.txt"
+      }
+    },
+    {
       "key": "MTV",
       "name": "🌻┃明星┃MV",
       "type": 3,
