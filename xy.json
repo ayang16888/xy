@@ -63,7 +63,24 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "NewGrV2",
-      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/ebab8029-2b87-42f8-a964-ec1ca3de4052.png"
+    },
+    {
+      "key": "99",
+      "name": "半日┃影视",
+      "type": 3,
+      "api": "csp_App99",
+      "ext": {
+        "host": "http://103.217.190.91:19987/app/bn",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "3.5.8",
+        "name": "半日闲",
+        "package": "com.yf.lelian",
+        "buildNumber": "2001",
+        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC",
+        "danmu": "True"
+      },
+      "jar": "https://yc.wya6.cn/pz/wyjk.php"
     },
     {
       "key": "DongPian",
@@ -75,20 +92,29 @@
       "jar": "http://118.89.172.248:8025/jar/tan.php"
     },
     {
-      "key": "半日",
-      "name": "🌻┃半日┃影视",
+      "key": "AppV7_Fz",
+      "name": "🌻┃小猪┃秒播",
       "type": 3,
-      "api": "csp_App99",
+      "api": "csp_AppV7",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AppV7Fz",
+      "jar": "https://yc.wya6.cn/pz/wyjk.php"
+    },
+    {
+      "key": "symx",
+      "name": "🌻┃木兮┃影视",
+      "type": 3,
+      "api": "csp_Symx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
       "ext": {
-        "host": "http://103.217.190.91:19987/app/bn",
-        "appkey": "24d625a8a29b4700a1a294c6f3b29e2c",
-        "versionName": "3.5.8",
-        "name": "半日闲",
-        "package": "com.yf.lelian",
-        "buildNumber": "2001",
-        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+        "site": "https://film.symx.club",
+        "danmu": "True"
       },
-      "jar": "https://jihulab.com/yoursmile77/TVBox/-/raw/master/Yoursmile.jar"
+      "jar": "https://yc.wya6.cn/pz/wyjk.php"
     },
     {
       "key": "苹果",
@@ -119,9 +145,22 @@
       "api": "csp_AppV7Amns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "AppV7Xyz",
-      "jar": "https://zl.wpscdn.cn/2026/09/09/space_img/3ef1e1c2-ba7d-4efc-a7c1-a52376c53b33.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/0286b8d7-091c-456f-ad86-f17f7ec93778.png"
+    },
+    {
+      "key": "KanJuMe",
+      "name": "🌻┃世界┃影视",
+      "type": 3,
+      "api": "csp_KanJuMe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": "True"
+      },
+      "jar": "https://yc.wya6.cn/pz/wyjk.php"
     },
     {
       "key": "热播影视",
@@ -164,12 +203,12 @@
       "name": "🌻┃追剧┃影视",
       "key": "AppV7Zjdr",
       "type": 3,
-      "api": "csp_AppV7Amns",
+      "api": "csp_AppV7",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "filterable": 1,
       "ext": "AppV7Zjdr",
-      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
+      "jar": "https://yc.wya6.cn/pz/wyjk.php"
     },
     {
       "key": "追剧吧",
@@ -251,15 +290,17 @@
       "jar": "https://qiniu.gongxueyun.com/upload/4312160/2026-10-02/report/350167968_3_1790963314413.jar"
     },
     {
-      "name": "🌻┃蒙太奇┃影视",
-      "key": "AppV7Mtq",
+      "key": "mtq",
+      "name": "🌻┃蒙奇┃秒播",
       "type": 3,
-      "api": "csp_AppV7Amns",
+      "api": "csp_Mtq",
       "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "AppV7Mtq",
-      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "hide_unplayable": "False"
+      },
+      "jar": "https://yc.wya6.cn/pz/wyjk.php"
     },
     {
       "key": "Yimi",
@@ -301,14 +342,14 @@
       "jar": "https://www.lnjubao.cn/minio-jbpt/upload/20260717/5829d919fb4c5697c5e882205771f2c9.jpg"
     },
     {
-      "name": "🌻┃爱看┃采集",
+      "name": "🌻┃爱看┃影视",
       "key": "AiBot",
       "type": 3,
       "api": "csp_AiBotAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/0286b8d7-091c-456f-ad86-f17f7ec93778.png"
     },
     {
       "key": "py_jieyingshi",
@@ -322,17 +363,15 @@
       "jar": "http://183.131.83.37:40782/mob/spider.jar"
     },
     {
-      "key": "文才",
-      "name": "🌻┃文才┃影视",
+      "key": "文采",
+      "name": "🌻┃文采┃秒播",
       "type": 3,
-      "api": "http://183.131.83.37:40782/mob/lib/文才影视.py",
+      "api": "csp_JpysGuard",
+      "timeout": 10,
       "searchable": 1,
+      "changeable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "site": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
-      },
-      "jar": "http://183.131.83.37:40782/mob/spider.jar"
+      "jar": "https://tv.菜妮丝.top/jar/fty1016.jar"
     },
     {
       "key": "茉莉",
@@ -388,7 +427,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "AppV7Dsx",
-      "jar": "https://file.icve.com.cn/file_doc/81/326/14751AFEF3EF30B1AFFFA398F1E9D961.png"
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/ebab8029-2b87-42f8-a964-ec1ca3de4052.png"
     },
     {
       "key": "csp_PianKu8",
@@ -502,13 +541,14 @@
     },
     {
       "name": "🌻┃橘汁┃高清",
-      "key": "线路14",
+      "key": "Juzhi",
       "type": 3,
-      "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c",
-      "api": "csp_Woshinidie",
+      "api": "csp_JuzhiAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "Juzhi",
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/ebab8029-2b87-42f8-a964-ec1ca3de4052.png"
     },
     {
       "key": "csp_Jpys",
@@ -697,6 +737,20 @@
       "ext": "https://app.95112475.xyz|5a9w6x58dsq6z3a6"
     },
     {
+      "key": "JuXiaFan",
+      "name": "🌻┃下饭┃影视",
+      "type": 3,
+      "api": "csp_JuXiaFan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "site": "http://jumianfei.com",
+        "danmu": "True"
+      },
+      "jar": "https://yc.wya6.cn/pz/wyjk.php"
+    },
+    {
       "key": "梨园",
       "name": "🌻┃戏曲┃梨园",
       "type": 3,
@@ -759,35 +813,19 @@
     },
     {
       "key": "河马短剧",
-      "name": "🌻┃短剧A┃影视",
+      "name": "🌻┃河马┃短剧",
       "type": 3,
-      "api": "http://183.131.83.37:40782/mob/lib/河马短剧.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "jar": "http://183.131.83.37:40782/mob/spider.jar"
+      "api": "csp_ShortHema",
+      "genre": "shortdrama",
+      "jar": "https://yc.wya6.cn/pz/xswy.php"
     },
     {
-      "key": "西饭短剧",
-      "name": "🌻┃短剧B┃影视",
+      "key": "好看短剧",
+      "name": "🌻┃好看┃短剧",
       "type": 3,
-      "api": "http://183.131.83.37:40782/mob/lib/西饭短剧.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "jar": "http://183.131.83.37:40782/mob/spider.jar"
-    },
-    {
-      "key": "csp_duanju",
-      "name": "🌻┃盒马┃短剧",
-      "type": 3,
-      "timeout": 12,
-      "api": "csp_HeMa",
-      "jar": "https://www.lnjubao.cn/minio-jbpt/upload/20260717/5829d919fb4c5697c5e882205771f2c9.jpg"
+      "api": "csp_ShortHaokan",
+      "genre": "shortdrama",
+      "jar": "https://yc.wya6.cn/pz/xswy.php"
     },
     {
       "key": "csp_QM",
@@ -801,6 +839,17 @@
       "jar": "https://www.lnjubao.cn/minio-jbpt/upload/20260902/c48ed63d2f52adc74108b9b891accf90.png"
     },
     {
+      "name": "🌻┃盒马┃短剧",
+      "key": "Hema",
+      "type": 3,
+      "api": "csp_HemaAmns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "genre": "shortdrama",
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/ebab8029-2b87-42f8-a964-ec1ca3de4052.png"
+    },
+    {
       "name": "🌻┃豪堪┃短剧",
       "key": "HHkk",
       "type": 3,
@@ -812,26 +861,25 @@
       "jar": "https://nos.netease.com/vcloud-statistic/nrtc/17aeb464-6132-4b0e-9c1d-d3c3653c8c89.png"
     },
     {
-      "key": "Manbo",
-      "name": "🌻┃曼波┃动漫",
+      "name": "🌻┃嗷嗚┃动漫",
+      "key": "DMcyc",
       "type": 3,
-      "api": "csp_AppGet",
+      "api": "csp_DMcycAmns",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "AUzH3yIWvgQkyhQw17uONTsfuN8PupZ/LJdr5C31Y/CWlzSNmarYI5kaJYN5c0p6+Oq0tXuTutQo9MHHytxulL5kmapDuAK5+2NTlpsUgBnr0tOamm69Fwb+jFDQ7VW46qf5EFY+Ea3PHzkpfeObKPM=",
-      "jar": "https://qiniu.gongxueyun.com/upload/6180265/2026-09-01/training_record/950055803_4_1788301315144.jar"
+      "changeable": 1,
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/ebab8029-2b87-42f8-a964-ec1ca3de4052.png"
     },
     {
       "key": "FanShu",
-      "name": "🌻┃番薯┃动漫",
+      "name": "🌻┃薯香┃动漫",
       "type": 3,
       "api": "csp_FanShu",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://max.moyu666666.top/fanshu.php",
-      "jar": "https://qiniu.gongxueyun.com/upload/6180265/2026-09-01/training_record/950055803_4_1788301315144.jar"
+      "ext": "ATRKbRVZ+0iAF3VtiEl2yaQpfr/La/gfF7APq1gyc0MmfzYKC1Q8+9v8Z2qs8ajptpHfq2v9it704BXeP7Ridw4=",
+      "jar": "https://yc.wya6.cn/pz/wyjk.php"
     },
     {
       "name": "🌻┃魔都┃动漫",
