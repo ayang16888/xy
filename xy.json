@@ -117,6 +117,35 @@
       "jar": "https://yc.wya6.cn/pz/wyjk.php"
     },
     {
+      "key": "dyx",
+      "name": "🌻┃影侠┃影视",
+      "type": 3,
+      "api": "csp_DianYingXia",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "https://cac.opple.com/yc-media/getFile?id=f61279a6953f4206bdcbd1c86a8804d3#.png;3130dcf9527d5aeaa37f4eb30f08ca26"
+    },
+    {
+      "key": "tvb_yunbo",
+      "name": "🌻┃云播┃影视",
+      "type": 3,
+      "api": "csp_HiApp",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "api_base": "http://app.tuxianimg.com/api/vod/",
+        "aes_key": "MickwrKuMickwrKu",
+        "aes_iv": "MickwrKuMickwrKu",
+        "platform": "android",
+        "referer": "http://app.tuxianimg.com/",
+        "danmu": "True",
+        "danmu_api": "https://dm.211.li/nonay"
+      },
+      "jar": "https://cac.opple.com/yc-media/getFile?id=f61279a6953f4206bdcbd1c86a8804d3#.png;3130dcf9527d5aeaa37f4eb30f08ca26"
+    },
+    {
       "key": "苹果",
       "name": "🌻┃小苹果┃影视",
       "type": 3,
@@ -290,6 +319,17 @@
       "jar": "https://qiniu.gongxueyun.com/upload/4312160/2026-10-02/report/350167968_3_1790963314413.jar"
     },
     {
+      "key": "AppZy_qiushui",
+      "name": "🌻┃秋水┃4K",
+      "type": 3,
+      "api": "csp_AppZy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AXYmhdoG4mVUI1O/8DD7P+twDiSLZh1j9iNOR/xHURJp2Aw4rTsWEymW/RcJqLNohr1iR09cYEj6cCGDSNc95aBhNQfelqiC0gTqRSXniGO3",
+      "jar": "https://qiniu.gongxueyun.com/upload/2371282/2026-11-12/noknow/759250805_1_1794505074145.jar"
+    },
+    {
       "key": "mtq",
       "name": "🌻┃蒙奇┃秒播",
       "type": 3,
@@ -342,6 +382,16 @@
       "jar": "https://www.lnjubao.cn/minio-jbpt/upload/20260717/5829d919fb4c5697c5e882205771f2c9.jpg"
     },
     {
+      "key": "feiyu_video",
+      "name": "🌻┃飞娱┃影视",
+      "type": 3,
+      "api": "csp_Feiyu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://raw.giteeusercontent.com/KYSY1/dyy/raw/master/bh0822_%E5%90%88%E5%B9%B6%E7%89%88.jar"
+    },
+    {
       "name": "🌻┃爱看┃影视",
       "key": "AiBot",
       "type": 3,
@@ -352,15 +402,26 @@
       "jar": "https://nos.netease.com/vcloud-statistic/nrtc/0286b8d7-091c-456f-ad86-f17f7ec93778.png"
     },
     {
-      "key": "py_jieyingshi",
-      "name": "🌻┃街影┃4K",
+      "name": "🌻┃街石┃影视",
+      "key": "AppV7Xsz",
       "type": 3,
-      "api": "http://183.131.83.37:40782/mob/lib/Symx.py",
+      "api": "csp_AppV7Amns",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0,
-      "jar": "http://183.131.83.37:40782/mob/spider.jar"
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xsz",
+      "jar": "https://fmsc525.oss-cn-hangzhou.aliyuncs.com/upload/235/20261111/04d7de872fa893cd2cf6139cab519da0.png"
+    },
+    {
+      "name": "🌻┃街梦┃影视",
+      "key": "AppV7Xnm",
+      "type": 3,
+      "api": "csp_AppV7Amns",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xnm",
+      "jar": "https://fmsc525.oss-cn-hangzhou.aliyuncs.com/upload/235/20261111/04d7de872fa893cd2cf6139cab519da0.png"
     },
     {
       "key": "文采",
@@ -399,26 +460,6 @@
       "jar": "https://yc.wya6.cn/pz/wyjk.php"
     },
     {
-      "key": "猎手影视",
-      "name": "🌻┃猎手┃影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/py/%E7%8C%8E%E6%89%8B%E5%BD%B1%E8%A7%86.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/xmbjm/svip/refs/heads/main/svip.jar"
-    },
-    {
-      "key": "新首发",
-      "name": "🌻┃首发┃影视",
-      "type": 3,
-      "api": "csp_AppGet",
-      "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0",
-      "jar": "https://www.lnjubao.cn/minio-jbpt/upload/20260717/5829d919fb4c5697c5e882205771f2c9.jpg"
-    },
-    {
       "name": "🌻┃师兄┃秒播",
       "key": "AppV7Dsx",
       "type": 3,
@@ -428,13 +469,6 @@
       "changeable": 1,
       "ext": "AppV7Dsx",
       "jar": "https://nos.netease.com/vcloud-statistic/nrtc/ebab8029-2b87-42f8-a964-ec1ca3de4052.png"
-    },
-    {
-      "key": "csp_PianKu8",
-      "name": "🌻┃山楂┃影视",
-      "type": 3,
-      "api": "csp_PianKu8",
-      "jar": "https://www.lnjubao.cn/minio-jbpt/upload/20260717/5829d919fb4c5697c5e882205771f2c9.jpg"
     },
     {
       "key": "csp_Gz360",
@@ -513,20 +547,16 @@
       "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg"
     },
     {
-      "key": "荐片",
+      "key": "Jianpian",
       "name": "🌻┃荐片┃影视",
-      "quickSearch": 0,
-      "changeable": "0",
-      "searchable": 1,
-      "timeout": 15,
       "type": 3,
       "api": "csp_Jianpian",
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
+      "searchable": 1,
+      "quickSearch": 0,
+      "ext": {
+        "site": "https://api.ztcgi.com"
       },
-      "ext": "https://api.ztcgi.com",
-      "jar": "https://oss-chat-bucket.oss-cn-beijing.aliyuncs.com/picture/console/chatres/7fd101e440d84afa8608480893e72180aFnuu1Uq.jpg"
+      "jar": "http://118.89.172.248:8025/jar/tan.php"
     },
     {
       "key": "枫叶影视",
@@ -724,7 +754,7 @@
     },
     {
       "key": "潮流",
-      "name": "🏜┃潮流┃APP",
+      "name": "🌻┃潮流┃影视",
       "type": 3,
       "api": "csp_AppRJ",
       "ext": "http://v.rbotv.cn"
